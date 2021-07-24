@@ -25,4 +25,4 @@ spring:
           - git-commit=${git.commit.id.abbrev:}
           - git-branch=${git.branch:}
       host: localhost
-      port: 8500
+      port: 8181
